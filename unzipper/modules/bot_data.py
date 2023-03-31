@@ -157,7 +157,7 @@ Hi **{}** 👋, I'm **Unarchiver bot** 🥰
 
 I can extract archives like `zip`, `rar`, `tar`, …
 
-**Made with ❤️ by @EDM115bots**
+**Made with ❤️ by @Botz_Maker**
     """
     # **This is BETA version !** May be a lot buggy, but with new features. Better waiting for the stable version at daytime… 🙂
 
@@ -192,8 +192,7 @@ I can extract archives like `zip`, `rar`, `tar`, …
 
 • **Language :** [Python 3.11.1](https://www.python.org/)
 • **Framework :** [Pyrogram 2.0.99](https://pyrogram.org/)
-• **Source code :** [EDM115/unzip-bot](https://github.com/EDM115/unzip-bot/tree/beta)
-• **Developer :** [EDM115](https://github.com/EDM115)
+• **Developer :** [ELBISH](https://t.me/Elbish_Creator)
 
 **Made with ❤️ by @EDM115bots**
     """
@@ -239,7 +238,7 @@ Select the extraction mode for that {} 👀
     EXT_CAPTION = """
 `{}`
 
-Successfully extracted by @unzip_edm115bot 🥰
+Successfully extracted by @Elbish_Extractor_Bot 🥰
     """
 
     URL_UPLOAD = """
